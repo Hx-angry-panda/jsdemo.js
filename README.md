@@ -14,7 +14,7 @@
  
  └── js
  
-      └── main.js
+ │    └── main.js
 
 #### 4.index.html 的内容为
     
